@@ -14,3 +14,4 @@
 - Cables
 
 ## Video funcionamiento
+<video src="https://github.com/user-attachments/assets/1885657e-fe60-450c-a319-1eb000afddfd" width="300" height="300"></video>
