@@ -1,8 +1,8 @@
 /*
- * DESCRIPCIÓN: detectar pulsador por nivel
+ * DESCRIPCIÓN: detectar pulsador por nivel solo mostrando un mensaje al cambiar de nivel
  * Autor: Julio Díaz
  * Empresa: IES JAROSO
- * Fecha creación:
+ * Fecha creación:2/10/25
  * Fecha actualización:
  */
 
