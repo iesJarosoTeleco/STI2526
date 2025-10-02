@@ -4,7 +4,7 @@
 - Montar hardware (resistencia  y pulsador)
   
 ## Esquema
-<img src="https://github.com/user-attachments/assets/90a51fbc-99b5-4d3a-9e58-92f57b4b2b62" align="center" width="300" height="300">
+<img src="" align="center" width="300" height="300">
 
 ## Relación de materiales
 - R1 = 10K
@@ -13,4 +13,4 @@
 - Cables
 
 ## Video funcionamiento
-<video src="https://github.com/user-attachments/assets/1885657e-fe60-450c-a319-1eb000afddfd" width="300" height="300"></video>
+<video src="" width="300" height="300"></video>
