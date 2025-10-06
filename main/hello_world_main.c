@@ -13,9 +13,6 @@
 
 void app_main(void)
 {
-    gpio_config_t configLed1 = {};
     
-    
-    
-    //gpio_config(const gpio_config_t *pGPIOConfig)
 }
+
